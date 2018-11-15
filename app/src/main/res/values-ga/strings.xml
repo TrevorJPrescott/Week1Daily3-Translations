@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Week1Daily3 -Translations</string>
+    <string name="statement1">Dia duit Mearcair</string>
+    <string name="statement2">Dia duit Véineas</string>
+    <string name="statement3">Dia duit Earth</string>
+    <string name="statement4">Dia duit Mars</string>
+    <string name="statement5">Slán Plutoid</string>
+</resources>

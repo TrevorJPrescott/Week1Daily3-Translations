@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/hello_message1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/statement1"
+        android:textColor="@color/Mu"
+        android:textSize="45sp"/>
+
+    <TextView
+        android:id="@+id/messager2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/statement2"
+        android:textColor="@color/Ve"
+        android:textSize="45sp"/>
+
+    <TextView
+        android:id="@+id/messager3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/statement3"
+        android:textColor="@color/Ea"
+        android:textSize="45sp"/>
+
+    <TextView
+        android:id="@+id/messager4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/statement4"
+        android:textColor="@color/Ma"
+        android:textSize="45sp"/>
+
+    <TextView
+        android:id="@+id/message5r"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/statement5"
+        android:textColor="@color/Pl"
+        android:textSize="45sp"/>
+
+    <TextView
+        android:id="@+id/hello_message"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="a"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="45sp"/>
+
+
+
+</LinearLayout>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Week1Daily3 -Translations</string>
+    <string name="statement5">Ciao Plutone</string>
+    <string name="statement4">Ciao Mars</string>
+    <string name="statement2">Ciao Venere</string>
+    <string name="statement3">Ciao Terra</string>
+    <string name="statement1">Ciao Mercurio</string>
+</resources>
